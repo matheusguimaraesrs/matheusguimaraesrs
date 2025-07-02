@@ -1,39 +1,33 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79" width="100%" />
+
   <samp>
-    <b>
-      Hello, World! Eu sou Matheus Guimarães.
-    </b>
-      <br>
-      Estudando Java.
+    <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-      No momento estou focado em Back-End.
-      Em transição de carreira.
-      <br>
+    Estudante Java.
+    <br>
+    No momento estou focado em Back-End.
+    <br>
+    Em transição de carreira.
   </samp>
-</div>  
 
-<br>
-<br>
-      
-<div align="center">
-  <img src="https://imgur.com/SGR1Rrh.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/65acebf2-759f-4d53-8ab9-5828a404e2da"/>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Sou+brasileiro;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;Estou+estudando+JAVA;Por+enquanto+meu+foco+%C3%A9+Back-End" 
+      alt="Typing SVG" />
+  </a>
+</p>
 
-<br>
 
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais Informações</b>
       </samp>
   </summary>
   
@@ -44,20 +38,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=matheuscasti&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscasti&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=algolia"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheuscasti&theme=algolia"
   />
   <br>
   <br>
@@ -65,7 +59,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=algolia&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=matheuscasti&theme=algolia&card_width=885"
   />
   </div>
 
@@ -97,11 +91,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-050f2c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-050f2c?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-050f2c?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheus_castiglioni@hotmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheus-guimar%C3%A3es-5bb8b6133/)
   
 </div>
 
