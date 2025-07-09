@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Sou+brasileiro;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;Estou+estudando+JAVA;Por+enquanto+meu+foco+%C3%A9+Back-End" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+Brazilian;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;I'm+studying+JAVA;For+now+my+focus+is+Back-End" 
       alt="Typing SVG" />
   </a>
 </p>
