@@ -4,7 +4,7 @@
   <samp>
     <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-    Estudante Java e C.
+    Estudante de Java e C.
     <br>
     No momento estou focado em Back-End.
     <br>
