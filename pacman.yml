@@ -1,0 +1,27 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todos os dias à meia-noite (UTC)
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          user_id: ${{ github.repository_owner }} # Pega seu usuário automaticamente
+          output_path: './output/pacman-contribution-graph.svg'
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./output/pacman-contribution-graph.svg
+          git commit -m "feat: Update Pac-Man Contribution Graph" || echo "No changes to commit"
+          git push || echo "No changes to push"
