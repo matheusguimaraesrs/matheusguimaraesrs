@@ -4,11 +4,11 @@
   <samp>
     <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-    Estudante da 42 RIO.
+    Estudante da 42 RIO
     <br>
-    No momento estou focado em Back-End.
+    No momento estou focado em Back-End mas também estudando Front-End
     <br>
-    Estudo JAVA e Linguagem C.
+    JAVA, C, HTML, CSS, JS, Makefile, Shell
   </samp>
 
   <br>
@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+Brazilian;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;I'm+studying+JAVA+and+C;For+now+my+focus+is+Back-End;I'm+a+student+at+42+RIO" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+Brazilian;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;For+now+my+focus+is+Back-End;But+I+also+study+Front-End;I'm+a+student+at+42+RIO" 
       alt="Typing SVG" />
   </a>
 </p>
