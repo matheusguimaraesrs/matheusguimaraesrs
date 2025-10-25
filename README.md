@@ -34,16 +34,29 @@
   <br>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusguimaraesrs&show_icons=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact"/>
   
 </div>
 
-## Linguagens
+## Linguagens 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY3bmZ4NDIyb2MxeHAwNGxqMjJkMmtia3RnMWdiZndha2hvdjA2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0MYGlG4YLB51v0bu/giphy.gif" width="40">
 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c95ee7d3-7c22-4c7f-b4ac-8dec2866489e" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75e81c14-8f07-4e6d-80fa-2b1dfa204363" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fc7389db-8565-419e-b0cf-e5c34169ec76" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2805db27-8f92-4fda-ae8b-1278053c03cb" />
+<div align="center"> 
+  <p>Front-End</p>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fc7389db-8565-419e-b0cf-e5c34169ec76" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2805db27-8f92-4fda-ae8b-1278053c03cb" />
+</div>
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtuNmwwZGRzeWtlZ2dwbmR4MWlkaG85YWVvZ2Vla2tvanFwNDkyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36">
+<div align="center">
+  <p>Back-End</p>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c95ee7d3-7c22-4c7f-b4ac-8dec2866489e" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75e81c14-8f07-4e6d-80fa-2b1dfa204363" />
+  </div>
+
+<br>
+
+## 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&bg_color=white&border_color=00000&title_color=black&text_color=black" />
 
 ##
 
