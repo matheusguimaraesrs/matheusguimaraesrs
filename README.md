@@ -4,11 +4,9 @@
   <samp>
     <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-    Engenharia de Software - 42 RIO
-    <br>
-    Ciência da Computação - Gran Faculdade
-    <br>
     No momento estou focado em Back-End mas também estudando Front-End
+    <br>
+    Engenharia de Software - 42 RIO | Ciência da Computação - Gran Faculdade
     <br>
     
   </samp>
