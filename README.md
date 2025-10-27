@@ -53,9 +53,15 @@
   </div>
 
 <br>
+<div>
+  <p>GitHub Analytics</p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&bg_color=white&border_color=00000&title_color=white&text_color=white" />
+
+</div>
 
 ## 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&bg_color=white&border_color=00000&title_color=black&text_color=black" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusguimaraesrs&theme=react-dark&height=310)](https://github.com/matheusguimaraesrs/github-readme-activity-graph)
 
 ##
 
