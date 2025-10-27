@@ -4,11 +4,12 @@
   <samp>
     <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-    Estudante da 42 RIO
+    Engenharia de Software - 42 RIO
+    Ciência da Computação - Gran Faculdade
     <br>
     No momento estou focado em Back-End mas também estudando Front-End
     <br>
-    JAVA, C, HTML, CSS, JS, Makefile, Shell
+    
   </samp>
 
   <br>
