@@ -41,9 +41,9 @@
 
 <div align="center"> 
   <p>Front-End</p>
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fc7389db-8565-419e-b0cf-e5c34169ec76" />
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2805db27-8f92-4fda-ae8b-1278053c03cb" />
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/434f0192-58e9-403a-8a6c-43b9b5c37f56" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4b256dec-110c-4301-8df2-ce46203f88fa" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9e0cc0fe-e8cf-4954-b5fe-6e394f822628" />
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c82756bf-c3fc-4e2b-97e8-40f44bf0ef17" />
 
 </div>
 <br>
