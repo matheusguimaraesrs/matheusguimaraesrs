@@ -4,7 +4,7 @@
   <samp>
     <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-    No momento estou focado em Back-End mas também estudando Front-End
+    Focado para me tornar um Desenvolvedor Full Stack
     <br>
     Engenharia de Software - 42 RIO | Ciência da Computação - Gran Faculdade
     <br>
