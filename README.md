@@ -52,6 +52,8 @@
   <p>Back-End</p>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c95ee7d3-7c22-4c7f-b4ac-8dec2866489e" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75e81c14-8f07-4e6d-80fa-2b1dfa204363" />
+    <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/8ba5158b-3030-459c-bfe1-03943f25f572" />
+
   </div>
 
 <br>
