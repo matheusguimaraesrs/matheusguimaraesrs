@@ -4,7 +4,7 @@
   <samp>
     <b>Hello, World! Eu sou Matheus Guimarães.</b>
     <br>
-    Focado para me tornar um Desenvolvedor Full Stack
+    Meu objetivo é me tornar um Desenvolvedor Full Stack
     <br>
     Engenharia de Software - 42 RIO | Ciência da Computação - Gran Faculdade
     <br>
