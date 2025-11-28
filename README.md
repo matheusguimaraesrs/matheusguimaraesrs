@@ -6,7 +6,7 @@
     <br>
     Meu objetivo é me tornar um Desenvolvedor Full Stack
     <br>
-    Engenharia de Software - <a href="https://42.rio"  target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
+    Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
     <br>
     
   </samp>
