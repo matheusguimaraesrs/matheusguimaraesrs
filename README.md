@@ -3,7 +3,7 @@
 
   <samp>
     <h1>Hello, World! Eu sou Matheus Guimarães.</h1>
-    <h3>Meu objetivo é me tornar um Desenvolvedor Full Stack</h3>
+    <h3>Desenvolvedor Back-End</h3>
     <p>
       Acredito no poder que a tecnologia tem em tornar o mundo mais acessível e conectado 
       <br>
