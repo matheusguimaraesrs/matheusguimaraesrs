@@ -2,10 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79" width="100%" />
 
   <samp>
-    <b>Hello, World! Eu sou Matheus Guimarães.</b>
-    <br>
-    Meu objetivo é me tornar um Desenvolvedor Full Stack
-    <br>
+    <h1>Hello, World! Eu sou Matheus Guimarães.</h1>
+    <h3>Meu objetivo é me tornar um Desenvolvedor Full Stack</h3>
+    <p>
+      Acredito no poder que a tecnologia tem em tornar o mundo mais acessível e conectado 
+      <br>
+      Quanto mais eu estudo programação, mais sinto vontade de resolver problemas!
+    </p>
     Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
     <br>
     
