@@ -34,9 +34,9 @@
         <b>Mais Informações</b>
       </samp>
   </summary>
-  <br>
+  <br><br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusguimaraesrs&show_icons=true&include_all_commits=true"/>
+  
   
 </div>
 
