@@ -40,7 +40,7 @@
   
 </div>
 
-## Linguagens 
+## Linguagens <br><br>
 
 <div align="center"> 
   <p>Front-End</p>
