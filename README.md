@@ -7,7 +7,6 @@
     <p>
       Acredito no poder que a tecnologia tem em tornar o mundo mais acessível e conectado 
       <br>
-      Quanto mais eu estudo programação, mais sinto vontade de resolver problemas!
     </p>
     Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
     <br>
