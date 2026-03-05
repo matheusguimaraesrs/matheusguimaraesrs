@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black" width="100%" />
 
   <samp>
     <h1>Hello, World! Eu sou Matheus Guimarães.</h1>
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+Brazilian;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;For+now+my+focus+is+Back-End;But+I+also+study+Front-End;I'm+a+student+at+42+RIO" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=white&center=true&vCenter=true&width=600&lines=I'm+Brazilian;My+first+language+is+Portuguese;but+I+can+speak+beginner+English.;For+now+my+focus+is+Back-End;But+I+also+study+Front-End;I'm+a+student+at+42+RIO" 
       alt="Typing SVG" />
   </a>
 </p>
@@ -61,13 +61,15 @@
 <br>
 <div>
   <p>GitHub Analytics</p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&bg_color=white&border_color=00000&title_color=white&text_color=white" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&bg_color=white&border_color=00000&title_color=white&text_color=c8e64a" />
 
 </div>
 
 ## 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusguimaraesrs&theme=react-dark&height=310)](https://github.com/matheusguimaraesrs/github-readme-activity-graph)
+  <a href="https://www.thegitcity.com/dev/matheusguimaraesrs">
+    <img src="https://www.thegitcity.com/dev/matheusguimaraesrs/opengraph-image" width="600 "/>
+  <a/>
 
 ##
 
@@ -94,6 +96,6 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
 
 
