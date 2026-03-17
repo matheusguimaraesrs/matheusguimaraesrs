@@ -63,7 +63,7 @@
 <br>
 <br>
   <a href="https://www.thegitcity.com/dev/matheusguimaraesrs">
-    <img src="https://www.thegitcity.com/dev/matheusguimaraesrs/opengraph-image" width="600 "/>
+    <img src="https://www.thegitcity.com/dev/matheusguimaraesrs/opengraph-image" width="400"/>
   <a/>
 </div>
 ##
