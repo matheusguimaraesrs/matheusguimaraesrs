@@ -39,38 +39,33 @@
   
 </div>
 
-## Linguagens <br><br>
+<h2>Linguagens</h2> 
 
 <div align="center"> 
   <p>Front-End</p>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4b256dec-110c-4301-8df2-ce46203f88fa" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9e0cc0fe-e8cf-4954-b5fe-6e394f822628" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c82756bf-c3fc-4e2b-97e8-40f44bf0ef17" />
-
 </div>
 <br>
-
 <div align="center">
   <p>Back-End</p>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c95ee7d3-7c22-4c7f-b4ac-8dec2866489e" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75e81c14-8f07-4e6d-80fa-2b1dfa204363" />
     <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/8ba5158b-3030-459c-bfe1-03943f25f572" />
-
   </div>
-
 <br>
+
 <div>
-  <p>GitHub Analytics</p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&bg_color=white&border_color=00000&title_color=white&text_color=c8e64a" />
-
-</div>
-
-## 
-
+  <h2>GitHub Analytics</h2> 
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&theme=dark" />
+<br>
+<br>
   <a href="https://www.thegitcity.com/dev/matheusguimaraesrs">
     <img src="https://www.thegitcity.com/dev/matheusguimaraesrs/opengraph-image" width="600 "/>
   <a/>
-
+</div>
 ##
 
 <div align="center">
