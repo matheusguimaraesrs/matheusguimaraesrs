@@ -60,10 +60,6 @@
   <h2>GitHub Analytics</h2> 
   <img height="160em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&theme=dark&locale=pt-br"/>
 <br>
-<br>
-  <a href="https://www.thegitcity.com/dev/matheusguimaraesrs">
-    <img src="https://www.thegitcity.com/dev/matheusguimaraesrs/opengraph-image" width="400"/>
-  <a/>
 </div>
 
 ##
