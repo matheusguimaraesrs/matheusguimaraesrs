@@ -3,13 +3,11 @@
 
   <samp>
     <h1>Hello, World! Eu sou Matheus Guimarães.</h1>
-    <h3>Desenvolvedor Back-End</h3>
+    <h3>Desenvolvedor de Software em formação. Apaixonado por tecnologia, inovação e empreendedorismo.</h3>
     <p>
-      Acredito no poder que a tecnologia tem em tornar o mundo mais acessível e conectado 
+      Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
       <br>
     </p>
-    Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
-    <br>
     
   </samp>
 
@@ -46,6 +44,10 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4b256dec-110c-4301-8df2-ce46203f88fa" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9e0cc0fe-e8cf-4954-b5fe-6e394f822628" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c82756bf-c3fc-4e2b-97e8-40f44bf0ef17" />
+    <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+
 </div>
 <br>
 <div align="center">
@@ -53,6 +55,8 @@
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c95ee7d3-7c22-4c7f-b4ac-8dec2866489e" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75e81c14-8f07-4e6d-80fa-2b1dfa204363" />
     <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/8ba5158b-3030-459c-bfe1-03943f25f572" />
+    <img width="36" height="36" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  
   </div>
 <br>
 
