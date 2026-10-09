@@ -58,12 +58,6 @@
   </div>
 <br>
 
-<div>
-  <h2>GitHub Analytics</h2> 
-  <img height="160em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusguimaraesrs&layout=compact&theme=dark&locale=pt-br"/>
-<br>
-</div>
-
 ##
 
 <div align="center">
