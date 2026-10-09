@@ -3,7 +3,7 @@
 
   <samp>
     <h1>Hello, World! Eu sou Matheus Guimarães.</h1>
-    <h3>Desenvolvedor de Software em formação. Apaixonado por tecnologia, inovação e empreendedorismo.</h3>
+    <h3>Desenvolvedor de Software Backend. Apaixonado por tecnologia, inovação e empreendedorismo.</h3>
     <p>
       Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
       <br>
