@@ -43,7 +43,6 @@
   <p>Front-End</p>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4b256dec-110c-4301-8df2-ce46203f88fa" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9e0cc0fe-e8cf-4954-b5fe-6e394f822628" />
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c82756bf-c3fc-4e2b-97e8-40f44bf0ef17" />
     <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
