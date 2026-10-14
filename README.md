@@ -25,6 +25,7 @@
 
 ##
 
+<!--
 <details align="center">  
   <summary>
       <samp>
@@ -32,12 +33,13 @@
       </samp>
   </summary>
   <br><br>
+-->
 <div align="center">
-  
-  
+  <samp>
+    <b>Linguagens:</b> 
+  </samp>
 </div>
-<h2>Linguagens</h2> 
-</div>
+
 <br>
 
 <div align="center">
@@ -51,9 +53,7 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <b>Contact me:</b>
   </samp>
   <br>
   <br>
