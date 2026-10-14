@@ -3,7 +3,7 @@
 
   <samp>
     <h1>Hello, World! Eu sou Matheus Guimarães.</h1>
-    <h3>Desenvolvedor de Software Backend. Apaixonado por tecnologia, inovação e empreendedorismo.</h3>
+    <h3>Desenvolvedor de Software Backend. Apaixonado por tecnologia, música e empreendedorismo.</h3>
     <p>
       Engenharia de Software - <a href="https://42.rio" target="_blank">42 RIO</a> | Ciência da Computação - Gran Faculdade
       <br>
@@ -36,26 +36,15 @@
   
   
 </div>
-
 <h2>Linguagens</h2> 
-
-<div align="center"> 
-  <p>Front-End</p>
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4b256dec-110c-4301-8df2-ce46203f88fa" />
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9e0cc0fe-e8cf-4954-b5fe-6e394f822628" />
-    <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width="40" height="40" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
 </div>
 <br>
+
 <div align="center">
-  <p>Back-End</p>
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c95ee7d3-7c22-4c7f-b4ac-8dec2866489e" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8ba5158b-3030-459c-bfe1-03943f25f572" />
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/75e81c14-8f07-4e6d-80fa-2b1dfa204363" />
-  
-  </div>
+</div>
 <br>
 
 ##
